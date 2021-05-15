@@ -1,0 +1,240 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  display: inline-block;
+  margin-top: 100px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.25em;
+  color: #334443;
+}
+
+.top-container {
+  background-color: #e4bad4;
+
+}
+
+.skill1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+  height: 150px;
+}
+
+.skill2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 50%;
+  height: 150px;
+}
+.skill3{
+  width:25%;
+  border-radius: 50%;
+  height: 150px;
+  float: left;
+  margin-right: 30px;
+}
+
+.heading3 {
+  color: #c67ace;
+  font-size: 50px;
+}
+.h3{
+  font-family: 'Happy Monkey', cursive;
+  font-size: 30px;
+  color:  #c67ace;
+
+}
+
+.insta{
+  position: absolute;
+  height:30px;
+  width:30px;
+  right:500px;
+}
+
+.btn{
+  text-decoration: none;
+  padding-top: 50px;
+  margin-bottom: 30px;
+  position: relative;
+  top:30px;
+
+	background:linear-gradient(to bottom, #dfbdfa 5%, #bc80ea 100%);
+	background-color:#e4bad4;
+	border-radius:3px;
+display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: sans-serif;
+	font-size:15px;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #9752cc;
+  line-height: 40px;
+
+}
+
+
+
+.contact-me{
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.website{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.intro {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: black;
+  width:30%;
+  margin: auto;
+  padding-bottom: 20px;
+
+
+}
+
+.heading31 {
+  color:'Happy Monkey', cursive;;
+  text-align: right;
+  color: #c67ace;
+  font-size: 30px;
+}
+.heading32{
+  color:'Happy Monkey', cursive;;
+  text-align: left;
+  color: #c67ace;
+  font-size: 30px;
+}
+
+.line {
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 5%;
+  border-bottom-style: none;
+  margin-top: 30px;
+  border-color: #c67ace;
+}
+
+.heading4 {
+  color: #c67ace;
+  font-size: 30px;
+}
+.head41{
+  font-family: 'Montserrat Alternates', sans-serif;
+
+}
+.para-head {
+  text-align: right;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+.cooking{
+
+  font-family: 'Montserrat Alternates', sans-serif;
+  
+
+}
+
+.para {
+  font-size: 2.25rem;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0px;
+  color: #334443;
+  font-weight: normal;
+  line-height: 2em;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 40px;
+}
+
+.flower {
+  position: relative;
+  right: 150px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.middle-container{
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #e4bad4;
+  padding: 90px 0px 20px 0px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.footer-link {
+  text-decoration: none;
+  padding-right: 200px;
+  font-family: 'Happy Monkey', cursive;
+  font-weight: bold;
+  color: #ff005c;
+  font-size: 30px;
+
+
+
+
+}
+.footer-link:hover{
+  color: white;
+}
+.footer-link2:hover{
+  color:white;
+}
+.footer-link3:hover{
+  color:white;
+}
+.footer-link2 {
+  text-decoration: none;
+  padding-left: 200px;
+  font-family: 'Happy Monkey', cursive;
+  font-weight: bold;
+  color: #ff005c;
+  font-size: 30px;
+
+
+}
+
+.footer-link3 {
+  text-decoration: none;
+  padding-left: 200px;
+  background-image: instagram;
+  font-family: 'Happy Monkey', cursive;
+  font-weight: bold;
+  color: #ff005c;
+  font-size: 30px;
+}
+
+a[href*="linkedin.com/"] {
+background:url(https://linkedin.com/favicon.ico) no-repeat left center;
+padding-left:19px;
+}
+
+a[href*="github.com/"] {
+background:url(https://github.com/favicon.ico) no-repeat left center;
+padding-left:30px;
+}
+
+
+
+.lastpara{
+  padding-top: 70px;
+  color: white;
+}
